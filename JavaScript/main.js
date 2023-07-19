@@ -9,11 +9,11 @@ let header = `<p>Parqueo la bendicion
 </p>
 <nav>
 <div>
-<img src="../img/sedan.png">
-<img src="../img/fast-delivery.png">
-<img src="../img/bus.png">
-<img src="../img/truck.png">
-<img src="../img/ellipsis.png">
+<img src="./img/sedan.png">
+<img src="./img/fast-delivery.png">
+<img src="./img/bus.png">
+<img src="./img/truck.png">
+<img src="./img/ellipsis.png">
 </div>
 </nav>
 `;
