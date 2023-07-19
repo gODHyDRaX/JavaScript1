@@ -1,0 +1,24 @@
+.header{
+    display: flex;
+    background-color: aqua;
+ 
+    justify-content: space-between;
+    align-items: center;
+}
+.header img{
+    width: 5rem;
+}
+.header div{
+    background-color: aquamarine;
+    width: 30rem;
+    display: flex;
+    justify-content: space-between;
+}
+.header p{
+    justify-content: space-between;
+    display: flex;
+    place-items: center;
+    width: 15rem;
+    font-size: 1.5rem;
+
+}
