@@ -5,7 +5,7 @@ let header_del_dom = document.querySelector(".header")
 // Almacenar en una variable el contenido agregar
 
 let header = `<p>Parqueo la bendicion
-<img src="../img/spaces.png">
+<img src="./img/spaces.png">
 </p>
 <nav>
 <div>
